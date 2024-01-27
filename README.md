@@ -12,19 +12,22 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
   <img src="/cuerd-md/pcm1.png" alt="Logo" width="287" height="42">
 </p>
 
-## Para Ediciones o otras interfaces graficas
+## Para Ediciones
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
 | i3 Standard Edition | ![Standard Edition](/cuerd-scr/i3-edition.png) |
 | Sway Standard Edition | ![Standard Edition](/cuerd-scr/sway-edition.png) |
 | Xfce Legacy Edition | ![Legacy Edition](/cuerd-md/xfce-edition.png) |
+
+
+## Otras interfaces graficas
+| Descripción | Captura de pantalla |
+| ----------- | ------------------ |
 | MATE Edition (Disponible) | ![MATE](/cuerd-scr/mate-edition.png) |
 | Cinnamon Edition (Disponible) | ![Cinnamon](/cuerd-scr/cinnamon-edition.png) |
 | LXQt Edition (Disponible) | ![LXQt](/cuerd-scr/LXQt-edition.png) |
 | Budgie Edition (Disponible) | ![Budgie](/cuerd-scr/Budgie-edition.png) |
 | KDE Plasma Edition (Disponible) | ![Plasma](/cuerd-scr/Plasma-edition.png) |
-| awesome (Disponible) | ![awesome](/cuerd-scr/awesome-edition.png) |
-| GNOME (Disponible) | ![GNOME](/cuerd-scr/GNOME-edition.png) |
 
 ## Fondos basados en Futuristico
 | Descripción | Captura de pantalla |
@@ -43,12 +46,12 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | Cubism Glich | ![Cubic](/cuerd-scr/Cubism.png) |
 | Sakura | ![Sakura](/cuerd-scr/Sakura.png) |
 | Galaxy | ![Galaxy](/cuerd-scr/Galaxy.png) |
+| Yoko | ![Galaxy](/cuerd-scr/Yoko.png) |
 
-## ASCII (beta)
+## ASCII
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
 | Logo/Lema de CuerdOS | ![CuerdOS-Neofetch](/cuerd-scr/CuerdOS.png) |
-| Yoko | ![Yoko](/cuerd-scr/Yoko.png) |
 
 # Descargas
 Para descargar el pack, vendra en formato .zip o .pea (Use PeaZip) normalmente esta disponible en PNG. Se encuentrara en la parte de lanzamientos.
