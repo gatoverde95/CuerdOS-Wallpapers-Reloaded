@@ -7,7 +7,7 @@ Los fondos de pantalla que se presentan están destinados a diversas ediciones o
 
 Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida a la distribución y fortalecer su imagen distintiva. Todos estos fondos fueron diseñados en el programa Inkscape, un programa de software libre.
 
-!!COMUNICADO: SE LANZARA LA NUEVA GENERACION DE WALLPAPERS, NOTA: SE BORRARON GNOME y awesome.!!
+!!COMUNICADO: SE LANZARA LA NUEVA GENERACION DE WALLPAPERS!!
 
 <!-- Capturas de pantalla -->
 <p align="left">
@@ -28,7 +28,6 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | MATE Edition (Disponible) | ![MATE](/cuerd-scr/mate-edition.png) |
 | Cinnamon Edition (Disponible) | ![Cinnamon](/cuerd-scr/cinnamon-edition.png) |
 | LXQt Edition (Disponible) | ![LXQt](/cuerd-scr/LXQt-edition.png) |
-| Budgie Edition (Disponible) | ![Budgie](/cuerd-scr/Budgie-edition.png) |
 | KDE Plasma Edition (Disponible) | ![Plasma](/cuerd-scr/Plasma-edition.png) |
 
 ## Fondos basados en Futuristico
@@ -43,17 +42,19 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 ## Especiales
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
-| Prism | ![Prism](/cuerd-scr/Prism.png) |
+| Luna | ![Luna](/cuerd-scr/Luna.png) |
 | Nobara | ![Nobara](/cuerd-scr/Nobara.png) |
-| Cubism Glich | ![Cubic](/cuerd-scr/Cubism.png) |
+| Honoka | ![Honoka](/cuerd-scr/Honoka.png) |
 | Sakura | ![Sakura](/cuerd-scr/Sakura.png) |
-| Galaxy | ![Galaxy](/cuerd-scr/Galaxy.png) |
-| Yoko | ![Galaxy](/cuerd-scr/Yoko.png) |
+| Aurora | ![Aurora](/cuerd-scr/Aurora.png) |
+| Yoko | ![Yoko](/cuerd-scr/Yoko.png) |
+| Quadrapix | ![Quadrapix](/cuerd-scr/Quadrapix.png) |
 
-## ASCII
+## ASCII y Otros
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
 | Logo/Lema de CuerdOS | ![CuerdOS-Neofetch](/cuerd-scr/CuerdOS.png) |
+| Yevguenia | ![Pilot](/cuerd-scr/girl_pilot.png) |
 
 # Descargas
 Para descargar el pack, vendra en formato .zip o .pea (Use PeaZip) normalmente esta disponible en PNG. Se encuentrara en la parte de lanzamientos.
