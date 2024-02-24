@@ -17,15 +17,15 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 ## Para Ediciones
 | Descripción | Estilo Principal | Estilo basico |
 | ----------- | ------------------ | ------------------ |
-| i3 Standard Edition | ![Standard Edition](/cuerd-scr/i3-edition.png) | ![Standard Edition](/cuerd-scr/i3-edition.png) |
-| Sway Standard Edition | ![Standard Edition](/cuerd-scr/sway-edition.png) |
-| Xfce Legacy Edition | ![Legacy Edition](/cuerd-md/xfce-edition.png) |
+| i3 Standard Edition | ![Standard Edition](/cuerd-scr/i3-1.png) | ![Standard Edition](/cuerd-scr/i3-2.png) |
+| Sway Standard Edition | ![Standard Edition](/cuerd-scr/sway1.png) | ![Standard Edition](/cuerd-scr/sway2.png) |
+| Xfce Legacy Edition | ![Legacy Edition](/cuerd-md/xfce1.png) | ![Legacy Edition](/cuerd-md/xfce2.png) |
 
 
 ## Otras interfaces graficas
 | Descripción | Estilo Principal | Estilo basico |
 | ----------- | ------------------ | ------------------ |
-| MATE Edition (Disponible) | ![MATE](/cuerd-scr/mate-edition.png) |
+| MATE Edition (Disponible) | ![MATE](/cuerd-scr/mate1.png) | ![MATE](/cuerd-scr/mate2.png) |
 | Cinnamon Edition (Disponible) | ![Cinnamon](/cuerd-scr/cinnamon1.png) | ![Cinnamon](/cuerd-scr/cinnamon2.png) |
 | LXQt Edition (Disponible) | ![LXQt](/cuerd-scr/LXQt-edition.png) |
 | KDE Plasma Edition (Disponible) | ![Plasma](/cuerd-scr/Plasma-edition.png) |
