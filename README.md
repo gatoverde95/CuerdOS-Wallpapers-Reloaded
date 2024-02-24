@@ -15,18 +15,18 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 </p>
 
 ## Para Ediciones
-| Descripción | Captura de pantalla |
-| ----------- | ------------------ |
-| i3 Standard Edition | ![Standard Edition](/cuerd-scr/i3-edition.png) |
+| Descripción | Estilo Principal | Estilo basico |
+| ----------- | ------------------ | ------------------ |
+| i3 Standard Edition | ![Standard Edition](/cuerd-scr/i3-edition.png) | ![Standard Edition](/cuerd-scr/i3-edition.png) |
 | Sway Standard Edition | ![Standard Edition](/cuerd-scr/sway-edition.png) |
 | Xfce Legacy Edition | ![Legacy Edition](/cuerd-md/xfce-edition.png) |
 
 
 ## Otras interfaces graficas
-| Descripción | Captura de pantalla |
-| ----------- | ------------------ |
+| Descripción | Estilo Principal | Estilo basico |
+| ----------- | ------------------ | ------------------ |
 | MATE Edition (Disponible) | ![MATE](/cuerd-scr/mate-edition.png) |
-| Cinnamon Edition (Disponible) | ![Cinnamon](/cuerd-scr/cinnamon-edition.png) |
+| Cinnamon Edition (Disponible) | ![Cinnamon](/cuerd-scr/cinnamon1.png) | ![Cinnamon](/cuerd-scr/cinnamon2.png) |
 | LXQt Edition (Disponible) | ![LXQt](/cuerd-scr/LXQt-edition.png) |
 | KDE Plasma Edition (Disponible) | ![Plasma](/cuerd-scr/Plasma-edition.png) |
 
