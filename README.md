@@ -37,7 +37,7 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | Honeycomb | ![Atmos](/cuerd-gr/Cosmic.png) |
 | Andromeda | ![Boceto](/cuerd-gr/Andromeda.png) |
 | Yelena | ![Yelena](/cuerd-gr/Yelena.png) |
-| Minimalist | ![Yelena](/cuerd-gr/Minimal.png) |
+| Minimalist | ![Minimalist](/cuerd-gr/Minimalist.png) |
 
 ## Especiales
 | Descripción | Captura de pantalla |
