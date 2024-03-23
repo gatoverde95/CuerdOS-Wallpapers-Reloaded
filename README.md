@@ -27,7 +27,7 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | ----------- | ------------------ | ------------------ |
 | MATE+Compiz Edition (Disponible) | ![MATE](/cuerd-scr/mate1.png) | ![MATE](/cuerd-scr/mate2.png) |
 | Cinnamon Edition (Disponible) | ![Cinnamon](/cuerd-scr/cinnamon1.png) | ![Cinnamon](/cuerd-scr/cinnamon2.png) |
-| KDE Plasma Edition (Disponible) | ![Cinnamon](/cuerd-scr/kde1.png) | ![Cinnamon](/cuerd-scr/kde2.png) |
+| KDE Plasma Edition (Disponible) | ![KDE](/cuerd-scr/kde1.png) | ![KDE](/cuerd-scr/kde2.png) |
 
 ## Fondos basados en Futuristico
 | Descripción | Captura de pantalla |
