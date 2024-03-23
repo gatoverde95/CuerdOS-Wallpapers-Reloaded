@@ -25,10 +25,9 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 ## Otras interfaces graficas
 | Descripción | Estilo Principal | Estilo basico |
 | ----------- | ------------------ | ------------------ |
-| MATE Edition (Disponible) | ![MATE](/cuerd-scr/mate1.png) | ![MATE](/cuerd-scr/mate2.png) |
+| MATE+Compiz Edition (Disponible) | ![MATE](/cuerd-scr/mate1.png) | ![MATE](/cuerd-scr/mate2.png) |
 | Cinnamon Edition (Disponible) | ![Cinnamon](/cuerd-scr/cinnamon1.png) | ![Cinnamon](/cuerd-scr/cinnamon2.png) |
-| LXQt Edition (Disponible) | ![LXQt](/cuerd-scr/LXQt-edition.png) |
-| KDE Plasma Edition (Disponible) | ![Plasma](/cuerd-scr/Plasma-edition.png) |
+| KDE Plasma Edition (Disponible) | ![Cinnamon](/cuerd-scr/kde1.png) | ![Cinnamon](/cuerd-scr/kde2.png) |
 
 ## Fondos basados en Futuristico
 | Descripción | Captura de pantalla |
