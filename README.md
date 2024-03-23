@@ -32,28 +32,20 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 ## Fondos basados en Futuristico
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
-| Dark Misty | ![Misty](/cuerd-scr/Misty.png) |
-| Kitteh | ![Kitteh](/cuerd-scr/Kitteh.png) |
-| Postal Cosmic | ![Atmos](/cuerd-scr/Cosmic.png) |
-| Parallel Green | ![Boceto](/cuerd-scr/Parallel.png) |
-| Orion Green | ![Orion](/cuerd-scr/Orion.png) |
+| Diamond Misty | ![Misty](/cuerd-gr/Misty.png) |
+| Katie the Kitteh | ![Kitteh](/cuerd-gr/Kitteh.png) |
+| Honeycomb | ![Atmos](/cuerd-gr/Cosmic.png) |
+| Andromeda | ![Boceto](/cuerd-gr/Parallel.png) |
+| Yelena | ![Yelena](/cuerd-scr/Yelena.png) |
+| Minimalist | ![Yelena](/cuerd-scr/Minimal.png) |
 
 ## Especiales
 | Descripción | Captura de pantalla |
 | ----------- | ------------------ |
-| Luna | ![Luna](/cuerd-scr/Luna.png) |
-| Nobara | ![Nobara](/cuerd-scr/Nobara.png) |
-| Honoka | ![Honoka](/cuerd-scr/Honoka.png) |
-| Sakura | ![Sakura](/cuerd-scr/Sakura.png) |
-| Aurora | ![Aurora](/cuerd-scr/Aurora.png) |
-| Yoko | ![Yoko](/cuerd-scr/Yoko.png) |
-| Quadrapix | ![Quadrapix](/cuerd-scr/Quadrapix.png) |
-
-## ASCII y Otros
-| Descripción | Captura de pantalla |
-| ----------- | ------------------ |
-| Logo/Lema de CuerdOS | ![CuerdOS-Neofetch](/cuerd-scr/CuerdOS.png) |
-| Yevguenia | ![Pilot](/cuerd-scr/girl_pilot.png) |
-
-# Descargas
-Para descargar el pack, vendra en formato .zip o .pea (Use PeaZip) normalmente esta disponible en PNG. Se encuentrara en la parte de lanzamientos.
+| Coffee Luna | ![Luna](/cuerd-gr/Luna.png) |
+| Nobara | ![Nobara](/cuerd-gr/Nobara.png) |
+| Honoka | ![Honoka](/cuerd-gr/Honoka.png) |
+| Sakura Land | ![Sakura](/cuerd-gr/Sakura.png) |
+| Aurora | ![Aurora](/cuerd-gr/Aurora.png) |
+| Yoko | ![Yoko](/cuerd-gr/Yoko.png) |
+| Quadrapix | ![Quadrapix](/cuerd-gr/Quadrapix.png) |
