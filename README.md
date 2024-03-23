@@ -36,8 +36,8 @@ Se incorpora una amplia gama de fondos nuevos con el propósito de infundir vida
 | Katie the Kitteh | ![Kitteh](/cuerd-gr/Kitteh.png) |
 | Honeycomb | ![Atmos](/cuerd-gr/Cosmic.png) |
 | Andromeda | ![Boceto](/cuerd-gr/Andromeda.png) |
-| Yelena | ![Yelena](/cuerd-scr/Yelena.png) |
-| Minimalist | ![Yelena](/cuerd-scr/Minimal.png) |
+| Yelena | ![Yelena](/cuerd-gr/Yelena.png) |
+| Minimalist | ![Yelena](/cuerd-gr/Minimal.png) |
 
 ## Especiales
 | Descripción | Captura de pantalla |
